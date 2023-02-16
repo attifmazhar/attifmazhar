@@ -38,11 +38,11 @@ Feel free to ask me any questions about Python development | Web Development | M
 </table>
 <h3>My coding stack: </h3>
 <p>
-  <img alt="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
-  <img alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
-  <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
+  <img alt="Java" src="https://icons8.com/icon/13679/java" />
+  <img alt="Kotlin" src="https://img.icons8.com/2266EE/kotlin" />
+<!--   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> -->
 <!--   <img alt="Odoo" src="https://s10.gifyu.com/images/odoo.png" /> -->
-  <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />  
+<!--   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />   -->
 <!--   <img alt="Docker" src="https://img.icons8.com/color/48/000000/docker-container.png" />  -->
   <img alt="Github" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
 <!--   <img alt="Xml" src="https://s10.gifyu.com/images/xml-vector-icon-removebg-preview-1.png" /> -->
