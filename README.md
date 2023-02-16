@@ -38,8 +38,8 @@ Feel free to ask me any questions about Python development | Web Development | M
 </table>
 <h3>My coding stack: </h3>
 <p>
-  <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
-  <img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png" />
+  <img alt="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+  <img alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" />
 <!--   <img alt="Odoo" src="https://s10.gifyu.com/images/odoo.png" /> -->
   <img alt="PostgreSql" src="https://img.icons8.com/color/48/000000/postgreesql.png" />  
