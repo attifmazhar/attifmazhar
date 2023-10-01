@@ -3,7 +3,7 @@ attifmazhar/attifmazhar is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there 👋, We are here with you !
+### Hi there 👋
 
 <!-- <p align="center">
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
