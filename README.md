@@ -9,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
  </p> -->
 <br>
-  
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/atif.mazhar.161)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() 
@@ -31,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 ## :raised_hands: Let's Learn Together!
 
-Feel free to ask me any questions about Python development | Web Development | ML | Data Science | Scripting | Scrapping. Using Python i have built many projects and done many tasks. Python is my base language. I'll happy to share my experience and answers with you. Let's learn together.
+Feel free to ask me any questions about Android/iOS App development. Using JAVA/Kotlin/Swift, I have built many projects and done many tasks. I'll be happy to share my experience and answers with you. Let's learn together.
 
   </td>
   </tr>
@@ -53,9 +52,7 @@ Feel free to ask me any questions about Python development | Web Development | M
 ![GitHub language count](https://img.shields.io/github/languages/count/attifmazhar/FlutterApi?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/attifmazhar/FlutterApi?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/attifmazhar/FlutterApi?color=red&style=plastic)
-
 <br/>
-
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attifmazhar&theme=material-palenight&hide=Jupyter&layout=compact) -->
 <!--   <p align="center">
